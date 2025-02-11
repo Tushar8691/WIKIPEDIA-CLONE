@@ -1,7 +1,7 @@
 # Wikipedia Clone
 
 ## Overview
-Wiki Clone is a simple web application that allows users to search for articles on Wikipedia using the Wikipedia API. It provides a user-friendly interface with a search bar, result listings, and a light/dark theme toggle.
+Wikipedia Clone is a simple web application that allows users to search for articles on Wikipedia using the Wikipedia API. It provides a user-friendly interface with a search bar, result listings, and a light/dark theme toggle.
 
 ## Features
 - Search Wikipedia articles using a search query.
