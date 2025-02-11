@@ -38,6 +38,8 @@ Wiki Clone/
 │── app.js           # JavaScript logic
 │── README.md        # Project documentation
 ```
+<img width="1465" alt="Screenshot 2025-02-11 at 10 15 04 PM" src="https://github.com/user-attachments/assets/62dc0e04-835d-4472-83de-39ff7933fd95" />
+
 
 ## API Usage
 This project uses the Wikipedia API to fetch search results. The API endpoint used:
